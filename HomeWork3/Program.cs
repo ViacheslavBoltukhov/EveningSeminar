@@ -24,7 +24,7 @@ else Console.WriteLine(number + " - It's not palindrom");
 /*
 double DistanceIn3D(double x1, double y1, double z1, double x2, double y2, double z2)
 {
-    return Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2) + Math.Pow(z1 - z2,2));
+    return Math.Round(Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2) + Math.Pow(z1 - z2,2)),2);
 }
 
 Console.Write("input x1: ");
