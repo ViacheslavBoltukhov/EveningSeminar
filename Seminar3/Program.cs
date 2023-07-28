@@ -41,7 +41,8 @@ Console.Write("Input y: ");
 int y = Convert.ToInt32(Console.ReadLine());
 
 int quad = Quadrant(x,y);
-Console.Write("Quadrant number is: " + quad);
+if (quad == 0) Console.WriteLine("Uncorrected data");
+else Console.Write("Quadrant number is: " + quad);
 */
 
 // Task 3. Напишите программу, которая принимает на вход число (N) и выдаёт квадраты чисел от 1 до N.
