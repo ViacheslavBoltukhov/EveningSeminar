@@ -55,10 +55,12 @@ int[] CreateArray(int size)
 
 void PrintArray(int[] array)
 {
-    for (int i = 0; i < array.Length; i++)
+    Console.Write("[");
+    for (int i = 0; i < array.Length-1; i++)
     {
-        Console.Write(array[i] + " ");
+        Console.Write(array[i] + ", ");
     }
+    Console.Write(array[array.Length-1] + "]");
 }
 
 Console.Write("Input lenght of the array: ");
@@ -67,7 +69,7 @@ int lenght = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input digits of the array");
 int[] array = CreateArray(lenght);
 
-Console.WriteLine("Your array");
+Console.Write("Your array: ");
 PrintArray(array);
 */
 
