@@ -72,4 +72,3 @@ int[] array = CreateArray(lenght);
 Console.Write("Your array: ");
 PrintArray(array);
 */
-
