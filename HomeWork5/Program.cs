@@ -144,4 +144,7 @@ Console.WriteLine($"Minimum elem in array: {minElemInArray}");
 
 double maxElemInArray = MaxElemInArray(myArray);
 Console.WriteLine($"Maximum elem in array: {maxElemInArray}");
+
+double result = maxElemInArray - minElemInArray;
+Console.WriteLine($"Difference between maximum and minimum element in array: {result}");
 */
