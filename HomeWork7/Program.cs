@@ -103,3 +103,74 @@ else Console.WriteLine($"Element of array[{numberRows},{numberColumns}] - not in
 Print2dArray(myArray);
 */
 
+// Task 51.  Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+
+/*
+int[,] CreateRandom2dArray()
+{
+    Console.Write("Input a rows of array: ");
+    int rows = Convert.ToInt32(Console.ReadLine());
+
+    Console.Write("Input a columns of array: ");
+    int columns = Convert.ToInt32(Console.ReadLine());
+
+    Console.Write("Input a min possible value: ");
+    int minValue = Convert.ToInt32(Console.ReadLine());
+
+    Console.Write("Input a max possible value: ");
+    int maxValue = Convert.ToInt32(Console.ReadLine());
+    int[,] array = new int[rows,columns];
+    for (int i = 0; i < rows; i++)
+    {
+        for (int j = 0; j < columns; j++)
+        {
+            array[i,j] = new Random().Next(minValue,maxValue + 1);
+        }
+    }
+    return array;
+}
+
+void PrintArray(double[] array)
+{   
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.WriteLine($"Everage columns with index {i} = {array[i]} ");
+    }
+}
+
+void Print2dArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write($"{array[i,j]} ");
+        }
+        Console.WriteLine();
+    }
+}
+
+double[] AverageColumns(int[,] array)
+{
+    double[] resArray = new double[array.GetLength(1)];
+    double resColumnsAverage = 0;
+    for (int j = 0; j < array.GetLength(1); j++)
+    {   
+        for (int i = 0; i < array.GetLength(0); i++)
+        {
+            resColumnsAverage += array[i,j];
+        }
+        resArray[j] = resColumnsAverage / array.GetLength(1);
+        resColumnsAverage = 0;
+    }
+    return resArray;
+}
+int[,] myArray = CreateRandom2dArray();
+
+Print2dArray(myArray);
+
+double[] myArrayEverageColumns = AverageColumns(myArray);
+
+PrintArray(myArrayEverageColumns);
+*/
+
