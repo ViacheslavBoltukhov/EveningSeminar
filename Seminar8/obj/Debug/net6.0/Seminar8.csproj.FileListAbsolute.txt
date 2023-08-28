@@ -1,0 +1,15 @@
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\bin\Debug\net6.0\Seminar8.exe
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\bin\Debug\net6.0\Seminar8.deps.json
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\bin\Debug\net6.0\Seminar8.runtimeconfig.json
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\bin\Debug\net6.0\Seminar8.dll
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\bin\Debug\net6.0\Seminar8.pdb
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.csproj.AssemblyReference.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfoInputs.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfo.cs
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.csproj.CoreCompileInputs.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.dll
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\refint\Seminar8.dll
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.pdb
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\Seminar8.genruntimeconfig.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\Seminar8\obj\Debug\net6.0\ref\Seminar8.dll
