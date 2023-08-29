@@ -200,8 +200,6 @@ Console.WriteLine(SumOfMain(myArray));
 // Task 5. Отсортировать по убыванию строки массива.
 
 /*
-using System.Globalization;
-using System.Security.Principal;
 
 int[,] CreateRandom2dArray()
 {
