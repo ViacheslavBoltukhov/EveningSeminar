@@ -1,0 +1,15 @@
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\bin\Debug\net6.0\HomeWork9.exe
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\bin\Debug\net6.0\HomeWork9.deps.json
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\bin\Debug\net6.0\HomeWork9.runtimeconfig.json
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\bin\Debug\net6.0\HomeWork9.dll
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\bin\Debug\net6.0\HomeWork9.pdb
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.csproj.AssemblyReference.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.AssemblyInfoInputs.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.AssemblyInfo.cs
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.csproj.CoreCompileInputs.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.dll
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\refint\HomeWork9.dll
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.pdb
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\HomeWork9.genruntimeconfig.cache
+E:\GeekBrains\С#(Лекции)\EveningSeminar\HomeWork9\obj\Debug\net6.0\ref\HomeWork9.dll
